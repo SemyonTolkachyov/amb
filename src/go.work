@@ -1,0 +1,11 @@
+go 1.23.2
+
+use (
+	common/db
+	common/event
+	common/schema
+	common/util
+	messagesrv
+	pushersrv
+	querysrv
+)
