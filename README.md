@@ -16,6 +16,7 @@ This board is a microservice application for anonymous messages.
 - Nats - server for the NATS Messaging System
 - Postgres - server for Postgresql database
 - Elastic search - search engine
+- Nginx - reverse proxy server
 
 
 ## Commands
